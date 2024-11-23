@@ -1,2 +1,1 @@
-#Server
-![alt text](https://ibb.co/tbNSQXW)
+![image description](https://ibb.co/tbNSQXW)
